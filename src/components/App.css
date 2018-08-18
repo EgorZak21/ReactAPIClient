@@ -1,3 +1,11 @@
+button, button:focus {
+  background: none;
+  color: inherit;
+  cursor: pointer;
+  outline: inherit;
+  font: inherit;
+}
+
 #root {
   margin-top: 7vh;
 }
